@@ -1,0 +1,276 @@
+un_code,name_en,lat,lon,comment
+051,Armenia,40.069099,45.038189,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+004,Afghanistan,33.93911,67.709953,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+008,Albania,41.153332,20.168331,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+012,Algeria,28.033886,1.659626,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+016,American Samoa,-14.270972,-170.132217,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+020,Andorra,42.546245,1.601554,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+024,Angola,-11.202692,17.873887,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+028,Antigua and Barbuda,17.060816,-61.796428,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+032,Argentina,-38.416097,-63.616672,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+036,Australia,-25.274398,133.775136,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+040,Austria,47.516231,14.550072,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+044,Bahamas,25.03428,-77.39628,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+048,Bahrain,25.930414,50.637772,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+052,Barbados,13.193887,-59.543198,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+058,Belgium-Luxembourg [former],50.2296,5.3438,Latitude and longitude added using an arbitrary point between the two countries
+050,Bangladesh,23.684994,90.356331,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+060,Bermuda,32.321384,-64.75737,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+064,Bhutan,27.514162,90.433601,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+068,Bolivia (Plurinational State of),-16.290154,-63.588653,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+072,Botswana,-22.328474,24.684866,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+076,Brazil,-14.235004,-51.92528,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+533,Aruba,12.52111,-69.968338,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+084,Belize,17.189877,-88.49765,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+086,British Indian Ocean Territory [former],-6.3431940000000004,71.876519,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+090,Solomon Islands,-9.64571,160.156194,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+096,Brunei Darussalam,4.535277,114.727669,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+100,Bulgaria,42.733883,25.48583,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+104,Myanmar,21.913965,95.956223,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+108,Burundi,-3.373056,29.918886,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+010,Antarctica,-75.250973,-0.071389,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+074,Bouvet Island,-54.423199,3.413194,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+120,Cameroon,7.369722,12.354722,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+124,Canada,56.130366,-106.346771,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+128,Canton and Enderbury Islands [former],-2.810556,-171.675556,Latitude and longitude added using Canton Island's coordinates
+132,Cabo Verde,16.002082,-24.013197,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+136,Cayman Islands,19.513469,-80.566956,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+140,Central African Republic,6.611111,20.939444,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+144,Sri Lanka,7.873054,80.771797,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+148,Chad,15.454166,18.732207,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+152,Chile,-35.675147,-71.542969,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+156,China,35.86166,104.195397,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+162,Christmas Island,-10.447525,105.690449,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+166,Cocos (Keeling) Islands,-12.164165,96.870956,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+170,Colombia,4.570868,-74.297333,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+174,Comoros,-11.875001,43.872219,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+178,Congo,-0.228021,15.827659,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+184,Cook Islands,-21.236736,-159.777671,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+188,Costa Rica,9.748917,-83.753428,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+192,Cuba,21.521757,-77.781167,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+196,Cyprus,35.126413,33.429859,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+200,Czechoslovakia [former],49.2917,17.3994,Latitude and longitude added using an arbitrary point between Czechia and Slovakia
+031,Azerbaijan,40.143105,47.576927,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+204,Benin,9.30769,2.315834,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+208,Denmark,56.26392,9.501785,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+212,Dominica,15.414999,-61.370976,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+214,Dominican Republic,18.735693,-70.162651,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+112,Belarus,53.709807,27.953389,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+218,Ecuador,-1.831239,-78.183406,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+818,Egypt,26.820553,30.802498,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+222,El Salvador,13.794185,-88.89653,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+226,Equatorial Guinea,1.650801,10.267895,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+230,Ethiopia PDR [former],9.145,40.48967,Latitude and longitude added using Ethiopia's coordinates
+233,Estonia,58.595272,25.013607,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+234,Faroe Islands,61.892635,-6.911806,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+238,Falkland Islands (Malvinas),-51.796253,-59.523613,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+242,Fiji,-16.578193,179.414413,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+246,Finland,61.92411,25.748151,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+250,France,46.227638,2.213749,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+254,French Guiana,3.933889,-53.125782,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+258,French Polynesia,-17.679742,-149.406843,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+260,French Southern Territories,-49.280366,69.348557,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+262,Djibouti,11.825138,42.590275,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+268,Georgia,42.315407,43.356892,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+266,Gabon,-0.803689,11.609444,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+270,Gambia,13.443182,-15.310139,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+274,Gaza Strip  [former],31.516667,34.45,Latitude and longitude added using Gaza City's coordinates
+278,German Democratic Republic [former],52.516667,13.4,Latitude and longitude added using East berlin's coordinates
+280,"Germany, Fed. Rep. of [former]",50.735278,7.102222,Latitude and longitude added using Bonn's coordinates
+276,Germany,51.165691,10.451526,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+070,Bosnia and Herzegovina,43.915886,17.679076,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+288,Ghana,7.946527,-1.023194,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+292,Gibraltar,36.137741,-5.345374,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+296,Kiribati,-3.370417,-168.734039,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+300,Greece,39.074208,21.824312,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+304,Greenland,71.706936,-42.604303,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+308,Grenada,12.262776,-61.604171,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+312,Guadeloupe,16.995971,-62.067641,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+316,Guam,13.444304,144.793731,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+320,Guatemala,15.783471,-90.230759,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+324,Guinea,9.945587,-9.696645,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+328,Guyana,4.860416,-58.93018,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+334,Heard Island and McDonald Islands,-53.08181,73.504158,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+332,Haiti,18.971187,-72.285215,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+336,Holy See,41.902916,12.453389,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+340,Honduras,15.199999,-86.241905,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+344,"China, Hong Kong SAR",22.396428,114.109497,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+348,Hungary,47.162494,19.503304,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+191,Croatia,45.1,15.2,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+352,Iceland,64.963051,-19.020835,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+356,India,20.593684,78.96288,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+360,Indonesia,-0.789275,113.921327,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+364,Iran (Islamic Republic of),32.427908,53.688046,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+368,Iraq,33.223191,43.679291,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+372,Ireland,53.41291,-8.24389,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+376,Israel,31.046051,34.851612,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+380,Italy,41.87194,12.56738,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+384,Côte d'Ivoire,7.539989,-5.54708,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+398,Kazakhstan,48.019573,66.923684,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+388,Jamaica,18.109581,-77.297508,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+392,Japan,36.204824,138.252924,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+396,Johnston Island [former],16.736944,-169.523889,Latitude and longitude added using the island's coordinates
+400,Jordan,30.585164,36.238414,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+417,Kyrgyzstan,41.20438,74.766098,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+404,Kenya,-0.023559,37.906193,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+116,Cambodia,12.565679,104.990963,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+408,Democratic People's Republic of Korea,40.339852,127.510093,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+410,Republic of Korea,35.907757,127.766922,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+414,Kuwait,29.31166,47.481766,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+428,Latvia,56.879635,24.603189,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+418,Lao People's Democratic Republic,19.85627,102.495496,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+422,Lebanon,33.854721,35.862285,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+426,Lesotho,-29.609988,28.233608,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+430,Liberia,6.428055,-9.429499,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+434,Libya,26.3351,17.228331,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+438,Liechtenstein,47.166,9.555373,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+440,Lithuania,55.169438,23.881275,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+584,Marshall Islands,7.131474,171.184478,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+446,"China, Macao SAR",22.198745,113.543873,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+450,Madagascar,-18.766947,46.869107,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+454,Malawi,-13.254308,34.301525,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+458,Malaysia,4.210484,101.975766,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+462,Maldives,3.202778,73.22068,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+466,Mali,17.570692,-3.996166,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+470,Malta,35.937496,14.375416,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+474,Martinique,14.641528,-61.024174,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+478,Mauritania,21.00789,-10.940835,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+480,Mauritius,-20.348404,57.552152,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+484,Mexico,23.634501,-102.552784,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+488,Midway Islands [former],28.2075,-177.35,Latitude and longitude added using the island's coordinates
+492,Monaco,43.750298,7.412841,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+496,Mongolia,46.862496,103.846656,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+500,Montserrat,16.742498,-62.187366,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+504,Morocco,31.791702,-7.09262,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+508,Mozambique,-18.665695,35.529562,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+583,Micronesia (Federated States of),7.425554,150.550812,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+498,Republic of Moldova,47.411631,28.369885,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+516,Namibia,-22.95764,18.49041,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+520,Nauru,-0.522778,166.931503,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+524,Nepal,28.394857,84.124008,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+528,Netherlands (Kingdom of the),52.132633,5.291266,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+530,Netherlands Antilles [former],12.226079,-69.060087,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+536,Neutral Zone,NA,NA,NA
+540,New Caledonia,-20.904305,165.618042,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+807,North Macedonia,41.608635,21.745275,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+548,Vanuatu,-15.376706,166.959158,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+554,New Zealand,-40.900557,174.885971,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+558,Nicaragua,12.865416,-85.207229,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+562,Niger,17.607789,8.081666,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+566,Nigeria,9.081999,8.675277,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+570,Niue,-19.054445,-169.867233,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+574,Norfolk Island,-29.040835,167.954712,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+578,Norway,60.472024,8.468946,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+580,Northern Mariana Islands,17.33083,145.38469,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+582,Trust Territory of the Pacific Islands [former],15.183333,145.75,Latitude and longitude added using Saipan's coordinates
+586,Pakistan,30.375321,69.345116,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+591,Panama,8.537981,-80.782127,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+203,Czechia,49.817492,15.472962,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+598,Papua New Guinea,-6.314993,143.95555,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+600,Paraguay,-23.442503,-58.443832,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+604,Peru,-9.189967,-75.015152,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+608,Philippines,12.879721,121.774017,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+612,Pitcairn,-24.703615,-127.439308,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+616,Poland,51.919438,19.145136,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+620,Portugal,39.399872,-8.224454,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+624,Guinea-Bissau,11.803749,-15.180413,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+626,Timor-Leste,-8.874217,125.727539,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+630,Puerto Rico,18.220833,-66.590149,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+232,Eritrea,15.179384,39.782334,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+634,Qatar,25.354826,51.183884,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+585,Palau,7.51498,134.58252,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+716,Zimbabwe,-19.015438,29.154857,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+638,Réunion,-21.115141,55.536384,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+642,Romania,45.943161,24.96676,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+646,Rwanda,-1.940278,29.873888,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+643,Russian Federation,61.52401,105.318756,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+891,Serbia and Montenegro [former],43.616588,20.0955867,Latitude and longitude added using an arbitrary point between the two countries
+654,"Ascension, Saint Helena and Tristan da Cunha",-24.143474,-10.030696,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+659,Saint Kitts and Nevis,17.357822,-62.782998,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+662,Saint Lucia,13.909444,-60.978893,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+666,Saint Pierre and Miquelon,46.941936,-56.27111,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+670,Saint Vincent and the Grenadines,12.984305,-61.287228,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+674,San Marino,43.94236,12.457777,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+678,Sao Tome and Principe,0.18636,6.613081,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+682,Saudi Arabia,23.885942,45.079162,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+686,Senegal,14.497401,-14.452362,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+690,Seychelles,-4.679574,55.491977,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+694,Sierra Leone,8.460555,-11.779889,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+705,Slovenia,46.151241,14.995463,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+703,Slovakia,48.669026,19.699024,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+702,Singapore,1.352083,103.819836,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+706,Somalia,5.152149,46.199616,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+710,South Africa,-30.559482,22.937506,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+724,Spain,40.463667,-3.74922,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+732,Western Sahara,24.215527,-12.885834,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+736,Sudan [former],12.86281,30.21764,Latitude and longitude added using Sudan's coordinates
+740,Suriname,3.919305,-56.027783,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+762,Tajikistan,38.861034,71.276093,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+748,Eswatini,-26.522503,31.465866,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+752,Sweden,60.128161,18.643501,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+756,Switzerland,46.818188,8.227512,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+760,Syrian Arab Republic,34.802075,38.996815,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+795,Turkmenistan,38.969719,59.556278,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+158,Taiwan Province of China,23.69781,120.960515,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+834,United Republic of Tanzania,-6.369028,34.888822,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+764,Thailand,15.870032,100.992541,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+768,Togo,8.619543,0.824782,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+772,Tokelau,-8.967363,-171.855881,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+776,Tonga,-21.178986,-175.198242,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+780,Trinidad and Tobago,10.691803,-61.222503,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+512,Oman,21.512583,55.923255,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+788,Tunisia,33.886917,9.537499,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+792,Türkiye,38.963745,35.243322,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+796,Turks and Caicos Islands,21.694025,-71.797928,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+784,United Arab Emirates,23.424076,53.847818,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+800,Uganda,1.373333,32.290275,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+798,Tuvalu,-7.109535,177.64933,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+810,Union of Soviet Socialist Republics [former],61.52401,105.3188,Latitude and longitude added using Russia's coordinates
+826,United Kingdom of Great Britain and Northern Ireland,55.378051,-3.435973,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+804,Ukraine,48.379433,31.16558,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+840,United States of America,37.09024,-95.712891,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+581,United States Minor Outlying Islands,16.736944,-169.523889,Latitude and longitude added using Johnston Island's coordinates
+854,Burkina Faso,12.238333,-1.561593,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+858,Uruguay,-32.522779,-55.765835,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+860,Uzbekistan,41.377491,64.585262,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+862,Venezuela (Bolivarian Republic of),6.42375,-66.58973,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+704,Viet Nam,14.058324,108.277199,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+231,Ethiopia,9.145,40.489673,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+092,British Virgin Islands,18.420695,-64.639968,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+850,United States Virgin Islands,18.335765,-64.896335,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+872,Wake Island [former],19.295278,166.631111,Latitude and longitude added using the island's coordinates
+876,Wallis and Futuna Islands,-13.768752,-177.156097,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+882,Samoa,-13.759029,-172.104629,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+402,West Bank [former],31.9,35.2,Latitude and longitude added using Ramallah's coordinates
+886,Yemen Arab Republic [former],15.348333,44.206389,Latitude and longitude added using Sanaa's coordinates
+720,"Yemen, Democratic [former]",12.8,45.033333,Latitude and longitude added using Aden's coordinates
+890,Yugoslavia SFR [former],43.856389,18.413056,Latitude and longitude added using Sarajevo's coordinates
+887,Yemen,15.552727,48.516388,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+180,Democratic Republic of the Congo,-4.038333,21.758664,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+894,Zambia,-13.133897,27.849332,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+896,Other NEI,NA,NA,NA
+056,Belgium,50.503887,4.469936,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+442,Luxembourg,49.815273,6.129583,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+660,Anguilla,18.220554,-63.068615,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+830,Channel Islands,49.4301,2.3666,Latitude and longitude added using Sark's coordinates
+744,Svalbard and Jan Mayen Islands,77.553604000000007,23.670272,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+833,Isle of Man,54.236107,-4.548056,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+175,Mayotte,-12.8275,45.166244,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+239,South Georgia and the South Sandwich Islands,-54.429579,-36.587909,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+688,Serbia,44.016521,21.005859,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+499,Montenegro,42.708678,19.374389999999998,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+836,"United Republic of Tanzania, Zanzibar",-5.600319,39.499173,Latitude and longitude added using an arbitrary point between the two islands
+532,Netherlands Antilles [former],12.226079,-69.060087,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+248,Åland Islands,60.116667,19.9,Latitude and longitude added using Mariehamn's coordinates
+535,"Bonaire, Sint Eustatius and Saba",12.15,-68.266667,Latitude and longitude added using Bonaire's coordinates
+831,Guernsey,49.465691,-2.585278,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+832,Jersey,49.214439,-2.13125,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+531,Curaçao,12.116667,-68.933333,Latitude and longitude added using the island's coordinates
+652,Saint Barthélemy,17.897908,-62.850556,Latitude and longitude added using Gustavia's coordinates
+663,Saint Martin (French part),18.0731,-63.0822,Latitude and longitude added using Marigot's coordinates
+534,Sint Maarten (Dutch part),18.0237,-63.0458,Latitude and longitude added using Philipsburg's coordinates
+728,South Sudan,4.853889,31.5825,Latitude and longitude added using Juba's coordinates
+680,Sark,49.4301,2.3666,Latitude and longitude added using the island's coordinates
+729,Sudan,12.862807,30.217636,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+275,Palestine,31.952162,35.233154,Coordinates added from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+0,European Union,NA,NA,NA
